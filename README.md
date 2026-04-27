@@ -1,6 +1,7 @@
 # Sistema de Dosagem Rotativa (Baseado em 8051)
 
 **Disciplina:** SEL0433 - Aplicação de Microprocessadores
+
 **Alunos:** 
 * Felipe Assis Bernardes Falvo | NUSP: 15004433 
 * Thales Vasconcelos Aguiar de Oliveira | NUSP: 15489730 
