@@ -41,7 +41,9 @@ Os valores hexadecimais para o acionamento do display de 7 segmentos foram coloc
 
 ## 💻 4. Como Simular 
 
-1. Carregue o arquivo `checkfinal.asm` no simulador **EdSim51**.
+<img width="1542" height="1004" alt="simulador" src="https://github.com/user-attachments/assets/45a5c2cb-510a-4ab3-bde7-c13b6151791b" />
+
+1. Carregue o arquivo `checkfinal.asm` no simulador **EdSim51** clicando em **LOAD**.
 2. Configure a frequência de atualização (**Update Freq.**) para **5** (recomendado para uma visualização suave e fluida da rotação do motor).
 3. Execute o programa clicando em **Run**.
 4. Observe que o display incrementa a cada volta completa do motor, indo de 0 a 9.
