@@ -41,7 +41,7 @@ Os valores hexadecimais para o acionamento do display de 7 segmentos foram coloc
 
 ## 💻 4. Como Simular 
 
-<img src="https://github.com/user-attachments/assets/45a5c2cb-510a-4ab3-bde7-c13b6151791b" width="50%" alt="simulador" />
+<img src="https://github.com/user-attachments/assets/45a5c2cb-510a-4ab3-bde7-c13b6151791b" width="70%" alt="simulador" />
 
 
 1. Carregue o arquivo `checkfinal.asm` no simulador **EdSim51** clicando em **LOAD**.
